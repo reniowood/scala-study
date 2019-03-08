@@ -1,4 +1,4 @@
-package com.jinhyuk.scalawithcats.introduction
+package com.jinhyuk.scalawithcats.chapter1
 
 trait Printable[A] {
   def format(value: A): String

@@ -1,4 +1,4 @@
-package com.jinhyuk.scalawithcats.introduction
+package com.jinhyuk.scalawithcats.chapter1
 
 import org.scalatest.{FunSpec, Matchers}
 
